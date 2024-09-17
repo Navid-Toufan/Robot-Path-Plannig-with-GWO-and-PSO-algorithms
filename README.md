@@ -62,8 +62,8 @@ Movement and Update: The robot moves to the best position identified by the algo
 
 2. **Copy Model File**:
    - Navigate to your CoppeliaSim installation directory.
-   - Locate the folder: `..\V-REP3\V-REP_PRO_EDU\models\robots\mobile`.
-   - Copy the `KheperaIV.ttm` file into this folder.
+   - Locate the folder: `..\CoppeliaRobotics\CoppeliaSimEdu\models\robots\mobile`.
+   - Copy the `Khepera-IV.ttm` file into this folder.
 
 3. **Verify Integration**:
    - Restart CoppeliaSim if it was open during the copy process.
