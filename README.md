@@ -99,6 +99,8 @@ For further details on the path-planning methods used and additional information
 </p>
 
 ## Youtube Link:
+[![Robot Path Planning Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/K9LEJhkH7VA)
+
 [![Robot Path Planning Demo](https://youtu.be/K9LEJhkH7VA)
 [![Robot Path Planning Demo](https://youtu.be/DIUZf1GXWdg)
 [![Robot Path Planning Demo](https://youtu.be/g9YyA_8hsbw)
