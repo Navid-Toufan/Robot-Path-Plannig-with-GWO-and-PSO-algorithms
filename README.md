@@ -90,15 +90,7 @@ By following these steps, you can set up your environment and integrate the Khep
 
 For further details on the path-planning methods used and additional information, refer to the project documentation and relevant research papers.
 
-## Screenshots of Models
-
-<p align="center">
-  <img src="Images/Scene1IGWO.PNG" width="30%" />
-  <img src="Images/Scene2IGWO.PNG" width="30%" />
-  <img src="Images/Scene3IGWO.PNG" width="30%" />
-</p>
-
-## Youtube Link:
+## Click to see model on YOUTUBE:
 
 <p align="center">
   <a href="https://youtu.be/g9YyA_8hsbw">
