@@ -3,13 +3,15 @@ This project uses Improved Grey Wolf Optimizer (IGWO) and Improved Particle Swar
 
 ### CoppeliaSim Educational Version
 
-The `.ttt` files included in this repository were created using the **Educational Version** of CoppeliaSim. These files contain simulation scenes and configurations designed for use with CoppeliaSim.
+The `.ttt` files included in this repository were created using the **V-REP V3.5.0 Educational Version**. This project utilizes child scripts written in LUA programming language to implement the path-planning algorithms.
 
 **Important:**
 
-- **License Compliance**: The distribution and usage of these files are subject to the terms of the [CoppeliaSim Educational License](https://manual.coppeliarobotics.com/en/licensing.htm). Please review this license to ensure compliance.
+- **CoppeliaSim Transition**: V-REP has been discontinued and replaced by **CoppeliaSim**. CoppeliaSim is 100% compatible with V-REP, as it is a direct successor and fork of the V-REP project. It offers enhanced performance and additional features compared to V-REP. Support and licenses for V-REP are handled interchangeably with CoppeliaSim.
 
-- **Version Compatibility**: These files are intended to be used with the Educational Version of CoppeliaSim. Ensure that you are using a compatible version of CoppeliaSim to avoid any issues.
+- **License Compliance**: The distribution and usage of these files are subject to the terms of the [CoppeliaSim Educational License](https://www.coppeliarobotics.com/helpFiles/en/eduLicense.htm). Please review this license to ensure compliance.
+
+- **Version Compatibility**: Although the project was initially developed in V-REP V3.5.0 Educational Version, it is compatible with newer versions of CoppeliaSim. Ensure that you are using a compatible version to avoid any issues.
 
 - **Khepera IV Model**: This project utilizes the Khepera IV model, a mobile robot, for simulation purposes. To integrate the Khepera IV model with CoppeliaSim, follow these steps:
   
@@ -19,7 +21,7 @@ The `.ttt` files included in this repository were created using the **Educationa
 
 - **Usage Instructions**: To use these `.ttt` files, download and install CoppeliaSim from the [official website](https://www.coppeliarobotics.com/). Open the files within CoppeliaSim to view and run the simulations.
 
-For any questions regarding the usage or licensing of these files, please refer to CoppeliaSim's official documentation or contact their support.
+- **Further Information**: For a comprehensive understanding of the robot path planning methods used, including the laser range finder and novel objective functions in grey wolf optimization, refer to the paper: [Robot Path Planning Based on Laser Range Finder and Novel Objective Functions in Grey Wolf Optimizer](https://link.springer.com/article/10.1007/s42452-020-3093-5).
 
 # System Design and Multi-Robot Setup
 In this project, we leverage CoppeliaSim's capability to handle multiple robots efficiently by utilizing child scripts. Each child script operates independently, with its own isolated state, allowing for effective distribution and management of tasks.
