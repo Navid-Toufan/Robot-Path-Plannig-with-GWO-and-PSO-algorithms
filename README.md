@@ -90,3 +90,4 @@ By following these steps, you can set up your environment and integrate the Khep
 
 For further details on the path-planning methods used and additional information, refer to the project documentation and relevant research papers.
 
+![ezcv logo](https://raw.githubusercontent.com/navid-toofan/Robot-Path-Plannig-with-GWO-and-PSO-algorithms/images/Scene1IGWO.png)
