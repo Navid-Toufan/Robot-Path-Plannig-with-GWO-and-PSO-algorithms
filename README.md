@@ -11,6 +11,8 @@ The `.ttt` files included in this repository were created using the **V-REP V3.5
 
 - **Tested Version**: This project has been tested with **CoppeliaSim V4.6.0**. Although initially developed in V-REP V3.5.0 Educational Version, the files are compatible with newer versions of CoppeliaSim.
 
+- **Child Scripts for Independent Control**: Each robot in this simulation is controlled by a separate child script. This approach allows each robot to operate independently, with its own isolated state and path-planning algorithm. You can duplicate the robot model as needed, and each instance will execute its control script independently, facilitating a distributed multi-robot path planning setup.
+
 - **License Compliance**: The distribution and usage of these files are subject to the terms of the [CoppeliaSim Educational License](https://www.coppeliarobotics.com/helpFiles/en/eduLicense.htm). Please review this license to ensure compliance.
 
 - **Khepera IV Model**: This project utilizes the Khepera IV model, a mobile robot, for simulation purposes. To integrate the Khepera IV model with CoppeliaSim, follow these steps:
