@@ -90,7 +90,7 @@ By following these steps, you can set up your environment and integrate the Khep
 
 For further details on the path-planning methods used and additional information, refer to the project documentation and relevant research papers.
 
-## Click to see model on YOUTUBE:
+## Click to see model on YouTube:
 
 <p align="center">
   <a href="https://youtu.be/g9YyA_8hsbw">
