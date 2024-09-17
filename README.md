@@ -76,7 +76,7 @@ Movement and Update: The robot moves to the best position identified by the algo
    - Open CoppeliaSim and go to the model selection menu.
    - You should now see the Khepera IV model listed among the available models.
 
-### Opem Models folder and using the `.ttt` Files
+### Open Models folder and using the `.ttt` Files
 
 1. **Open Simulation Files**:
    - Download the `.ttt` files from this repository.
