@@ -94,13 +94,13 @@ For further details on the path-planning methods used and additional information
 
 <p align="center">
   <a href="https://youtu.be/g9YyA_8hsbw">
-    <img src="https://github.com/navid-toofan/Robot-Path-Plannig-with-GWO-and-PSO-algorithms/blob/main/Images/Scene1IGWO.PNG" width="300" />
+    <img src="https://github.com/Navid-Toufan/Robot-Path-Plannig-with-GWO-and-PSO-algorithms/blob/main/Images/Scene1IGWO.PNG" width="300" />
   </a>
   <a href="https://youtu.be/DIUZf1GXWdg">
-    <img src="https://github.com/navid-toofan/Robot-Path-Plannig-with-GWO-and-PSO-algorithms/blob/main/Images/Scene2IGWO.PNG" width="300" />
+    <img src="https://github.com/Navid-Toufan/Robot-Path-Plannig-with-GWO-and-PSO-algorithms/blob/main/Images/Scene2IGWO.PNG" width="300" />
   </a>
   <a href="https://youtu.be/K9LEJhkH7VA">
-    <img src="https://github.com/navid-toofan/Robot-Path-Plannig-with-GWO-and-PSO-algorithms/blob/main/Images/Scene3IGWO.PNG" width="300" />
+    <img src="https://github.com/Navid-Toufan/Robot-Path-Plannig-with-GWO-and-PSO-algorithms/blob/main/Images/Scene3IGWO.PNG" width="300" />
   </a>
 </p>
 
