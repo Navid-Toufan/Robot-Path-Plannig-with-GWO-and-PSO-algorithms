@@ -9,9 +9,9 @@ The `.ttt` files included in this repository were created using the **V-REP V3.5
 
 - **CoppeliaSim Transition**: V-REP has been discontinued and replaced by **CoppeliaSim**. CoppeliaSim is 100% compatible with V-REP, as it is a direct successor and fork of the V-REP project. It offers enhanced performance and additional features compared to V-REP. Support and licenses for V-REP are handled interchangeably with CoppeliaSim.
 
-- **License Compliance**: The distribution and usage of these files are subject to the terms of the [CoppeliaSim Educational License](https://www.coppeliarobotics.com/helpFiles/en/eduLicense.htm). Please review this license to ensure compliance.
+- **Tested Version**: This project has been tested with **CoppeliaSim V4.6.0**. Although initially developed in V-REP V3.5.0 Educational Version, the files are compatible with newer versions of CoppeliaSim.
 
-- **Version Compatibility**: Although the project was initially developed in V-REP V3.5.0 Educational Version, it is compatible with newer versions of CoppeliaSim. Ensure that you are using a compatible version to avoid any issues.
+- **License Compliance**: The distribution and usage of these files are subject to the terms of the [CoppeliaSim Educational License](https://www.coppeliarobotics.com/helpFiles/en/eduLicense.htm). Please review this license to ensure compliance.
 
 - **Khepera IV Model**: This project utilizes the Khepera IV model, a mobile robot, for simulation purposes. To integrate the Khepera IV model with CoppeliaSim, follow these steps:
   
