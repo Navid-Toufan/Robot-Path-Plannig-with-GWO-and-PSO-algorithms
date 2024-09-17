@@ -100,7 +100,7 @@ For further details on the path-planning methods used and additional information
 
 ## Youtube Link:
 
-| [![Video 1](src="Images/Scene1IGWO.PNG)](https://youtu.be/g9YyA_8hsbw) | [![Video 2](https://img.youtube.com/vi/VIDEO_ID_2/0.jpg)](https://youtu.be/DIUZf1GXWdg) | [![Video 3](https://img.youtube.com/vi/VIDEO_ID_3/0.jpg)](https://youtu.be/K9LEJhkH7VA) |
+| [![Video 1](https://github.com/navid-toofan/Robot-Path-Plannig-with-GWO-and-PSO-algorithms/blob/main/Images/Scene1IGWO.PNG)](https://youtu.be/g9YyA_8hsbw) | [![Video 2](https://img.youtube.com/vi/VIDEO_ID_2/0.jpg)](https://youtu.be/DIUZf1GXWdg) | [![Video 3](https://img.youtube.com/vi/VIDEO_ID_3/0.jpg)](https://youtu.be/K9LEJhkH7VA) |
 |:---:|:---:|:---:|
 | Scene 1 | Scene 2 | Scene 3 |
 
