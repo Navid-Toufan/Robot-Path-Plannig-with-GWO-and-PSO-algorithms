@@ -1,5 +1,5 @@
 # Robot-Path-Plannig-with-GWO-and-PSO-algorithms
-This project uses Improved Grey Wolf Optimizer (IGWO) and Improved Particle Swarm Optimization (IPSO) for robot path planning with Laser Range Finder (LRF) data reduction in CoppeliaSim (V-REP). Robots autonomously navigate unknown environments and avoid collisions using IGWO/IPSO.
+This project uses Improved Grey Wolf Optimizer (IGWO) and Improved Particle Swarm Optimization (IPSO) for robot path planning with Laser Range Finder (LRF) data reduction in CoppeliaSim (V-REP). Robots autonomously navigate unknown environments and avoid collisions using IGWO/IPSO.  For a comprehensive understanding of the robot path planning methods used, including the laser range finder and novel objective functions in grey wolf optimization, refer to the paper: [Robot Path Planning Based on Laser Range Finder and Novel Objective Functions in Grey Wolf Optimizer](https://link.springer.com/article/10.1007/s42452-020-3093-5).
 
 ### CoppeliaSim Educational Version
 
