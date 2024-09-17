@@ -3,6 +3,12 @@ This project uses Improved Grey Wolf Optimizer (IGWO) and Improved Particle Swar
 
 ### CoppeliaSim Educational Version
 
+The `.ttt` files included in this repository were created using the **Educational Version** of CoppeliaSim. These files contain simulation scenes and configurations designed for use with CoppeliaSim.
+
+**Important:**
+
+- **License Compliance**: The distribution and usage of these files are subject to the terms of the [CoppeliaSim Educational License](https://manual.coppeliarobotics.com/en/licensing.htm). Please review this license to ensure compliance.
+- 
 The `.ttt` files included in this repository were created using the **V-REP V3.5.0 Educational Version**. This project utilizes child scripts written in LUA programming language to implement the path-planning algorithms.
 
 **Important:**
