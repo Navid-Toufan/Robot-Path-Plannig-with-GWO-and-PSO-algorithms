@@ -92,7 +92,7 @@ For further details on the path-planning methods used and additional information
 
 
 <p align="center">
-  <img src="images/Scene1IGWO.PNG" width="30%" />
-  <img src="images/Scene1IGWO.PNG" width="30%" />
-  <img src="images/Scene1IGWO.PNG" width="30%" />
+  <img src="Images/Scene1IGWO.PNG" width="30%" />
+  <img src="Images/Scene1IGWO.PNG" width="30%" />
+  <img src="Images/Scene1IGWO.PNG" width="30%" />
 </p>
