@@ -104,7 +104,7 @@ For further details on the path-planning methods used and additional information
   </a>
 </p>
 
-## This project was completed in 2017 and uploaded to GitHub in 2024 for archival purposes.
+## This project was completed in 2019 and uploaded to GitHub in 2024 for archival purposes.
 
 ### Timeline
 - **Completed:** 2019
